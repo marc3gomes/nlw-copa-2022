@@ -4,12 +4,14 @@
 
 ## Um evento online e gratuito de programação, na prática. Com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. :atom:
 
-Participar desse magnifico evento promovido pela [Rocketseat](https://github.com/Rocketseat) foi incrível, curti tanto que estou adicionando ele no meu github, quero compartilhar essa experiencia com vocês. :fire:
+Participar deste magnífico evento promovido pela [Rocketseat](https://github.com/Rocketseat) foi incrível. Gostei tanto ao ponto de adicionar ele no meu github. Quero compartilhar essa experiência com vocês. :fire:
 
-Todos os participantes do evento tiveram a oportunidade de trabalhar e conhecer tecnologias incríveis, e apesar do conteúdo não aprofundar sobre cada tecnologia apresentada, pois foram **muitas!** E não teríamos tempo para concluir tudo em uma semana. Conseguimos entender perfeitamente o que cada uma delas fazem e como podemos utilizá-las na realidade.
+Nós que participamos do evento tivemos a oportunidade de trabalhar e conhecer tecnologias incríveis. Apesar dos conteúdos não abordarem profudamente cada tecnologia apresentada "pois foram muitas", conseguimos entender perfeitamente o que cada uma dessas tecnologias fazem e como podemos utilizá-las em nosso dia a dia.
 
-Em resumo, desenvolvemos um aplicativo e site para criarmos e participarmos de bolões da copa, uma aplicação completa, web e mobile com front-end e back-end.
 
+O evento iniciou dia 31/10/2022 com duração até dia 06/11/2022. Foram *12:00h* de contéudos gravados e fornecidos pela [Rocketseat](https://github.com/Rocketseat), mas eu me dediquei em torno de *50:00h* durante essa semana. O tempo dedicado ficou entre codar, debugar e assistir conteúdos complementares que pesquisei no youtube, com o intuito de me aprofundar um pouco mais em cada tecnolgia apresentada. 
+
+Em resumo, desenvolvemos um aplicativo e um site para criarmos e participarmos de bolões da copa. Uma aplicação completa. Versões web e mobile com front-end e back-end.
 
 ---
 
@@ -42,9 +44,11 @@ Em resumo, desenvolvemos um aplicativo e site para criarmos e participarmos de b
 
 ### Comunidade Rocketseat:
 
-Além do planejamento, organização e conteúdo do evento terem sidos extremamente ótimos na minha opinião. A comunidade dentro do Discord da Rocketseat foi fenomenal, diversos níveis de programadores contribuindo e se preocupando com os problemas alheios.
+Além do planejamento, organização e conteúdo do evento terem sidos extremamente ótimos na minha opinião, a comunidade dentro do Discord da Rocketseat foi fenomenal. Diversos níveis de programadores contribuindo e se preocupando com os problemas alheios.
 
-Vivenciei uma experiência de aprendizagem única! Me senti em um verdadeiro time, e gostaria de mencionar alguns nomes que me ajudaram muitoooo. Mas o agradecimento vai para a comunidade inteira.
+Vivenciei uma experiência de aprendizagem única! Me senti em um verdadeiro time! E gostaria de mencionar alguns nomes que me ajudaram muitoooo. 
+
+Mas o agradecimento vai para a comunidade inteira.
 
 Caso você tenha contribuido e eu esqueci de te mencionar, por favor, me avise! :hand_over_mouth:
 
