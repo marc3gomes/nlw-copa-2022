@@ -65,7 +65,7 @@ Caso você tenha contribuido e eu esqueci de te mencionar, por favor, me avise! 
 
 ![Application Mobile Front-end](assets/application-mobile.png)
 
-![Aplicativo Mobile front-end gif](https://s1.gifyu.com/images/application_mobile.gif)
+![Aplicativo Mobile front-end gif](https://suporte-corsair.com.br/public/application_mobile.gif)
 
 
 ## #neverstoplearning
