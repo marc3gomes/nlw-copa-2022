@@ -14,9 +14,9 @@ Em resumo, desenvolvemos um aplicativo e site para criarmos e participarmos de b
 ---
 
 ### Documentações:
-- [Backend - Pasta Server]()
-- [Frontend - Pasta Web]()
-- [App - Pasta mobile]()
+- [Backend - Pasta Server](server/README.md)
+- [Frontend - Pasta Web](#)
+- [App - Pasta mobile](mobile/README.md)
 
 ---
 
